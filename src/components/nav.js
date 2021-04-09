@@ -14,7 +14,7 @@ export const NavBar = (props)=>{
                 <div class="collapse navbar-collapse d-l-flex justify-content-end" id="navbarNav">
                     <ul className="navbar-nav">
                         <li className="nav-item">
-                            <span className="nav-link border-right border-dark rounded-corner mx-2"><NavLink className="text-success" exact to="/">About</NavLink></span>
+                            <span className="nav-link border-right border-dark rounded-corner mx-2"><NavLink className="text-success" exact to="/portfolio">About</NavLink></span>
                         </li>
                         <li className="nav-item">
                             <span className="nav-link border-left border-dark rounded-corner"><NavLink className="text-success" exact to="/C.V">My C.V</NavLink></span>
